@@ -21,7 +21,8 @@ The project follows these steps:
 7.  **Visualize the results**: A scatter plot is generated to compare the actual and predicted stock prices for the test data.
 
 ## Results
-![image](https://github.com/user-attachments/assets/cf25dddd-4347-4cf7-b391-bd88f86c8389)
+![image](https://github.com/user-attachments/assets/d9a96555-a11b-4840-874a-ca478477345e)
+
 
 
 
